@@ -1,0 +1,16 @@
+{
+  "name": "my-own-git",
+  "version": "1.0.0",
+  "description": "My own Git implementation in TypeScript",
+  "type": "module",
+  "bin": {
+    "mygit": "./mygit"
+  },
+  "scripts": {
+    "git": "./mygit",
+    "dev": "bun run app/main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

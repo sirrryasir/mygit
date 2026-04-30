@@ -1,0 +1,14 @@
+node_modules/
+target/
+dist/
+*.bin
+*.exe
+mygit
+mygit-linux
+.DS_Store
+
+# Ignore newly requested large/unwanted files
+go/mygit-go
+ts/mygit-ts
+.codex
+rs/test_repo/

@@ -1,0 +1,9 @@
+pub mod config;
+pub mod diff;
+pub mod ignore;
+pub mod index;
+pub mod lockfile;
+pub mod object;
+pub mod refs;
+pub mod revision;
+pub mod setup;
